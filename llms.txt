@@ -1,0 +1,14 @@
+# EasyRap
+
+> EasyRap (https://easyrapvideo.com) is a browser-based AI tool that turns one or two photos into a short personalized rap music video (5, 10 or 15 seconds).
+
+Use cases: birthday rap, friendly roast rap, pet rap, rap duet, or your own idea. Styles include Street Rap, Trap, Old School, Funny Rap and Anime Rap. Generation uses paid credits (credit packs or subscriptions); there is currently no free rendered trial. Exact lyrics and precise lip sync are not guaranteed; audio uploads and voice cloning are not supported.
+
+## Links
+
+- [Website](https://easyrapvideo.com/): create a rap video from photos
+- [Pricing](https://easyrapvideo.com/pricing): credit packs and subscription plans
+- [Birthday rap](https://easyrapvideo.com/birthday-rap)
+- [Roast rap](https://easyrapvideo.com/roast-rap)
+- [Pet rap](https://easyrapvideo.com/pet-rap)
+- [Support](mailto:support@easyrapvideo.com)
